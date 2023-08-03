@@ -136,6 +136,9 @@ button,
     outline: inherit;
     justify-content: center;
 }
+.text {
+    border:none !important;
+}
 .primary {
     background-color: var(--primary) !important;
     color: var(--on-primary) !important;
